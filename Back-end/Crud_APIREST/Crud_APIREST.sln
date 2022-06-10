@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crud_APIREST", "Crud_APIREST\Crud_APIREST.csproj", "{2E157E50-6A64-4C00-8BC8-6A542F8DB964}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E157E50-6A64-4C00-8BC8-6A542F8DB964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E157E50-6A64-4C00-8BC8-6A542F8DB964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E157E50-6A64-4C00-8BC8-6A542F8DB964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E157E50-6A64-4C00-8BC8-6A542F8DB964}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52AE9088-B649-4D18-BAB1-22902C55DFCC}
+	EndGlobalSection
+EndGlobal
