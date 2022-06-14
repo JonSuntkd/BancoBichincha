@@ -1,0 +1,28 @@
+.container-custom {
+  margin-top: 25px;
+  max-width: 750px;
+  background-color: rgb(250, 245, 238);
+}
+
+h1 {
+  color: #020202;
+}
+
+h3 {
+  color: #fbfbfb;
+}
+
+p {
+  color: #fbfbfb;
+}
+
+.container-div {
+  margin-top: 25px;
+  max-width: 750px;
+  background-color: rgb(14, 13, 13);
+}
+
+.btn-formulario {
+  padding: 20px;
+  display: flex;
+}
